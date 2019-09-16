@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1567146119640'); /* IE9 */
+  src: url('iconfont.eot?t=1567146119640#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARMAAsAAAAACSQAAAP/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqFRIQ6ATYCJAMUCwwABCAFhG0HRhvEB8gOJaHAwABgIAFmPPC/9us+mWHO+4hapKsnTtdEIiRCg9h2Q9qmoYiF/P//78wbu8j2vEor+03iyZmdwpOS+Fq5oH734tI0lUIBq2tncWm1WaeEMqFwOOOZAJXa/0EC/B3/Rfkf4gZ7del6Aoppk7AOEtPzQSjTuwWEZ4upBoQJtVxBDBpZXTA2Q3gHniYuY7cBePPeP/wF3yAEUZVA73vzlFAP0T+M3xwcZoBR7qCAM5wR7CQSNoFMeCk0P+ME4U0cRf47rh2gaETxh/H9yPdJ3xwDbRT+hqTF+IdHkESZUIMu7iT4nUjmh9FCCPwYiZD4kYQQ+e/gPhhxRToX9OATQJgA/CBLCSTVqFR3SCRSuXFHtUEikpCEaYtbn7v5sLZ+ozZ741Yd3rTCkLdlx6y+t/n97woefCi6/366KSz0mXFGzhCrbMUW92axdPlGZpND7lSRKFbs2F4YEoql7CazZi3vOH/gTmPzPWB2Hr0o1Ww7u6pZgwdzsnBQ1ebNhgcPAo4E7HhQ1HJfPK1glt2tL/3QKY+9ffmX73vO40nuVxdt2abNFy/Xu7cUbD26/Lj7xIpj5ffvF7rHKg5BX1+XT2p2cn6hijiOgbgsrY6/UcAituzGKuJ6IQtmE/OQhxAPiQ8R4kcpsg39zVyJhIuCZoaJfCrryu6nguOK4wLyg4kDTuE25TahU7xvn2gdluaOrLEDBOxqh+etuvXjy8OA4fr/30mr4pW1uYF+htGgr5+TsII1RsrnJpLDfKPjXv7YtcwYQhkjO7hGsabZx71I4BJ8WhK89SN7aEFmDHQlT4rbhAWPkMd97iMuQnY9WDz7uXLJEt+/u//CXgJJCX/Wgjpu24SnE59OaPvG2cPu3c+epYQ2ULqMcDPIBmh3xYecEADSR9av/8rv+KwpY6oU4f+EEi7A99WvlnhZbSZDegX44BKNOf8MTsOCrPB0TZWlXIsteSonvrs4yvGCNtr7PR9GOtQ4SNAkOCxEHaYgaSyiM34TKi1bUGtsQ7EhaXLLAApHyCJg3SKAoNcZiLp9gKRXOzrjn0Fl2Deo9QYOFLdBM2fLcrCI4yhcQ+N6VDsDWepIJ2HqaLGfmItNU+w1VJznkQox1WDxIR9P73QsCTsxNcSAhqkmX5omEEGRDpQIm2G7nUQuirTiOtrTTNOuUC8vouiVPOtIB4jto2A1aFg9pNYMiEUdkhPhlKeJM2+fCzOZwq4GVZFXpi+EURpYakd8ePJugE4SOxvlXcolDaYy8UWjERACheSAJIIRsxthEuIqbmWF1aF5MncIuoTyIsWIpmLP6aWOe1wBhb5sFdgsDovL4rH4kO9q6mxcB3ZO4dkuH3625fhVAAA=') format('woff2'),
+  url('iconfont.woff?t=1567146119640') format('woff'),
+  url('iconfont.ttf?t=1567146119640') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1567146119640#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-back:before {
+  content: "\e61c";
+}
+
+.icon-menu:before {
+  content: "\e647";
+}
+
+.icon-menu1:before {
+  content: "\e623";
+}
+
+.icon-Pirate:before {
+  content: "\ed6d";
+}
+
